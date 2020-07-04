@@ -3,6 +3,14 @@ dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
 
 
+Patches included
+------------
+dmenu-fuzzymatch-4.9
+dmenu-lineheight-4.9
+dmenu-numbers-4.9
+dmenu-password-4.9
+
+
 Requirements
 ------------
 In order to build dmenu you need the Xlib header files.
