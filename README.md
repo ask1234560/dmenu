@@ -2,10 +2,10 @@
 dmenu is an efficient dynamic menu for X.
 
 ## Patches included
-dmenu-fuzzymatch-4.9
-dmenu-lineheight-4.9
-dmenu-numbers-4.9
-dmenu-password-4.9
+* dmenu-fuzzymatch-4.9
+* dmenu-lineheight-4.9
+* dmenu-numbers-4.9
+* dmenu-password-4.9
 
 ## Screenshots
 <img src="Screenshots/Screenshot_from_2020-09-14_14:58:41.png" width=1000px>
