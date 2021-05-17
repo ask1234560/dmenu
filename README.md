@@ -8,7 +8,7 @@ dmenu is an efficient dynamic menu for X.
 * dmenu-password-4.9
 
 ## Screenshots
-<img src="Screenshots/Screenshot_from_2020-09-14_14:58:41.png" width=1000px>
+<img src="Screenshots/Screenshot_from_2021-05-17_19:39:26.png" width=1000px>
 
 ## Requirements
 In order to build dmenu you need the Xlib header files.
